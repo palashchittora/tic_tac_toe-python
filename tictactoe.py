@@ -1,4 +1,4 @@
-#first milestone project
+#first practice project
 #defining required functions
 def display_board(board):
 	print('\n'*100)
